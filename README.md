@@ -17,7 +17,7 @@ Designed for sensitive environments, it operates completely in-memory utilizing 
 **Main Point** A powerful, low-memory footprint anti-forensics web application built with Python and Streamlit to detect, analyze, and sanitize hidden metadata leaks (XMP and Info Dictionary) from PDF files permanently.
 
 ## 🚀 Live Demo
-Access the deployed application here: **[https://redpurge-pdf.streamlit.app](https://redpurge-pdf.streamlit.app)**
+Access the deployed application here: **[https://redpurgepdf.streamlit.app](https://redpurgepdf.streamlit.app)**
 ---
 
 ## 🎓 Academic Credentials
